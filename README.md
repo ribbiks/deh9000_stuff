@@ -1,2 +1,2 @@
-# deh9000_stuff
+# deh_stuff
 scripts for generating dehacked for various doom projects
